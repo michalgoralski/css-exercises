@@ -1,5 +1,5 @@
 .odd-number {
-    background-color: rgb(255, 80, 80);
+    background-color: rgb(255, 100, 100);
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
@@ -8,12 +8,10 @@
     font-size: 36px;
 }
 
-#number-3 {
+.font-24 {
     font-size: 24px;
 }
 
 #number-4 {
     background-color: rgb(100, 255, 100);
-    font-size: 24px;
-    font-weight: bold;
 }
